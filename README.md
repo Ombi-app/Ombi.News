@@ -1,3 +1,5 @@
+**05/11/2020** Some Lidarr fixes incoming, completly forgot there was no way to mark an album as available manually, you now can from the requests grid! Also let me know what you think about the user profile in the navbar!
+
 **04/11/2020** There is now a small user profile section on the navbar! To get your image appearing we use Gravatar and the email address associated with your user account!
 
 **03/11/2020** For all those complaining about TheMovieDb page not working in V4! Well it does now! Enjoy 😃
