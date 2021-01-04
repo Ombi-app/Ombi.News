@@ -1,3 +1,5 @@
+**04/01/2021** Happy new year everyone! So we have some really cool stuff now planned in the coming weeks. But first I have just added the ability for admins to request on behalf of a user! The most upvoted feature on https://ombifeatures.featureupvote.com/ ! Just press the Cog/Settings icon on the details page and you will now have that option!
+
 **11/11/2020** Big update to Ombi today, Ombi is now running the latest .net 5! You will probably not see much difference, but it's a nice upgrade from a development point of view 😁
 
 **05/11/2020** Some Lidarr fixes incoming, completly forgot there was no way to mark an album as available manually, you now can from the requests grid! Also let me know what you think about the user profile in the navbar!
