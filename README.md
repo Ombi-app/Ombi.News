@@ -1,3 +1,5 @@
+**06/01/2021** Well, I've knocked off the next largest item from the feature list! We now have movie and show ratings on the detail pages! On top of that as of today we also include what streaming services they are available on! So the next thing that is coming will be the next most requested feature 😅.
+
 **04/01/2021** Happy new year everyone! So we have some really cool stuff now planned in the coming weeks. But first I have just added the ability for admins to request on behalf of a user! The most upvoted feature on the [Feature Request](https://ombifeatures.featureupvote.com/) site! Just press the Cog/Settings icon on the details page and you will now have that option!
 
 **11/11/2020** Big update to Ombi today, Ombi is now running the latest .net 5! You will probably not see much difference, but it's a nice upgrade from a development point of view 😁
