@@ -1,3 +1,5 @@
+**08/07/2021** There's been some real big improvements around the performance of the Discover page recently (in develop), I hope you see and enjoy it, with all the other nice little features! 🤩
+
 **08/06/2021** So just a small update, there's been a load of fixes happening in the develop branch, the mobile app is continutally being developed, issue can now be reported on the app, managing issues is next, hopefully you are enjoying that new experience 🤎
 
 **07/05/2021** As you might be aware, we have completly rewritten the Ombi Mobile apps, and I have to say, I'm super proud of them! Check them out! 
