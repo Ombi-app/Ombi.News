@@ -1,3 +1,5 @@
+**29/07/2021** There is now a 'preview' feature, advanced discovery. If you click the filter icon next to the search there's a new button, this is not yet finished but is usable. Going forward i'll be adding more filters for more refined search resutls. Let me know what you think on Discord!
+
 **08/07/2021** There's been some real big improvements around the performance of the Discover page recently (in develop), I hope you see and enjoy it, with all the other nice little features! 🤩
 
 **08/06/2021** So just a small update, there's been a load of fixes happening in the develop branch, the mobile app is continutally being developed, issue can now be reported on the app, managing issues is next, hopefully you are enjoying that new experience 🤎
