@@ -1,3 +1,5 @@
+**01/10/2021** Wow! So there's been a lot of changes in Ombi happening behind the scenes, lots of technical improvements and general stability/bug fixes. A new feature we have added is you can now specify the request limit range (one of the most popular voted features). So you have the option to set Day, Week and Monthly limits! Also keep an eye out at somepoint there will be a new Seasonal area on the discover page for Halloween! 
+
 **29/07/2021** There is now a 'preview' feature, advanced discovery. If you click the filter icon next to the search there's a new button, this is not yet finished but is usable. Going forward i'll be adding more filters for more refined search resutls. Let me know what you think on Discord!
 
 **08/07/2021** There's been some real big improvements around the performance of the Discover page recently (in develop), I hope you see and enjoy it, with all the other nice little features! 🤩
