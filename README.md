@@ -1,3 +1,10 @@
+**15/02/2021** ✨ We now have 4K request support for Movies in Ombi.
+Yes, this also means that Ombi now supports multiple instances of Radarr, a regular version and a Radarr 4K version!
+
+This is controlled by some new global feature flags (Settings > Configuration > Control Features). Once that is enabled it will enable 4K across the system. This feature flag will be removed when I am happy with it and there are no bugs.
+
+To allow your users to Request 4K content, they need the new 4K Request Movie role!
+
 **01/10/2021** Wow! So there's been a lot of changes in Ombi happening behind the scenes, lots of technical improvements and general stability/bug fixes. A new feature we have added is you can now specify the request limit range (one of the most popular voted features). So you have the option to set Day, Week and Monthly limits! Also keep an eye out at somepoint there will be a new Seasonal area on the discover page for Halloween! 
 
 **29/07/2021** There is now a 'preview' feature, advanced discovery. If you click the filter icon next to the search there's a new button, this is not yet finished but is usable. Going forward i'll be adding more filters for more refined search resutls. Let me know what you think on Discord!
