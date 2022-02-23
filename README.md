@@ -1,4 +1,4 @@
-**15/02/2021** ✨ We now have 4K request support for Movies in Ombi.
+**15/02/2022** ✨ We now have 4K request support for Movies in Ombi.
 Yes, this also means that Ombi now supports multiple instances of Radarr, a regular version and a Radarr 4K version!
 
 This is controlled by some new global feature flags (Settings > Configuration > Control Features). Once that is enabled it will enable 4K across the system. This feature flag will be removed when I am happy with it and there are no bugs.
